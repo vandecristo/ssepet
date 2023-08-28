@@ -1,0 +1,11 @@
+.app {
+  background-color: rgb(135, 163, 163);
+  padding: 7px;
+}
+
+.btnGroup {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  gap: 15px;
+}
